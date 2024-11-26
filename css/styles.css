@@ -13,6 +13,7 @@ a{
 }
 
 .logo {
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -75,6 +76,11 @@ background: #4d5ae5;
 cursor: pointer;
 }
 
+.section-one-button:hover,
+.section-one-button:focus{
+    background: #404bbf;
+}
+
 .section-two-item-h{
 font-weight: 500;
 font-size: 20px;
@@ -126,7 +132,7 @@ color: #434455;
 .portfolio-h{
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
@@ -159,6 +165,9 @@ color: #434455;
 }
 
 .footer-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
 }
 
