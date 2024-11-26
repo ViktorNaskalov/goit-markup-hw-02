@@ -12,11 +12,6 @@ a{
     text-decoration: none;
 }
 
-.page-header {
-}
-.header-nav {
-}
-
 .logo {
 font-weight: 700;
 font-size: 18px;
@@ -28,13 +23,6 @@ color: #4d5ae5;
 
 .header-logo .logo-part {
     color: #2e2f42;
-}
-
-.nav-list {
-}
-
-.nav-item {
-
 }
 
 .nav-link {
@@ -56,10 +44,6 @@ color: #404bbf;
     font-style: normal;
 }
 
-.contacts-list {
-}
-.contacts-item {
-}
 .contacts-link {
 font-size: 16px;
 line-height: 1.5;
