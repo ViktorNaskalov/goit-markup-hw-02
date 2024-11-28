@@ -107,6 +107,12 @@ color: #434455;
 .team{
     background-color: #f4f4fd;
 }
+
+.team-item{
+    background-color: #ffffff;
+    }
+
+
 .team-h{
 font-weight: 700;
 font-size: 36px;
