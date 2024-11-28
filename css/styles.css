@@ -11,7 +11,7 @@ ul,ol{
 a{
     text-decoration: none;
 }
-
+/* #region heder */
 .logo {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -51,7 +51,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+/* #endregion */
 
+/* #region section-one */
 .main-section-one{
     background-color: #2e2f42;
 }
@@ -71,7 +73,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 cursor: pointer;
 }
@@ -88,6 +89,9 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+/* #endregion */
+
+/* #region section-two */
 
 .section-two-text{
 font-size: 16px;
@@ -96,9 +100,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.section-two-h{
-    display: none;
-}
+/* #endregion */
+
+/* #region team */
 
 .team{
     background-color: #f4f4fd;
@@ -130,6 +134,10 @@ text-align: center;
 color: #434455;
 }
 
+/* #endregion */
+
+/* #region portfolio */
+
 .portfolio-h{
 font-weight: 700;
 font-size: 36px;
@@ -156,6 +164,9 @@ color: #434455;
 }
 
 
+/* #endregion */
+
+/* #region footer */
 
 
 .page-footer{
@@ -172,5 +183,7 @@ color: #434455;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+
+/* #endregion */
 
 
